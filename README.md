@@ -16,7 +16,7 @@ To start your project, you should clone the following repo which contains the te
 
 https://github.com/gervasetuxworth/2810ICT-2022-Assignment
 
-### Part B – Data Analysis and Visualisation (35%, Due week 11, Sunday 9h October)
+### Part B – Data Analysis and Visualisation (35%, Due week 11, Sunday 9th October)
 
 For Part B, you will need to implement the software that you designed in Part A. Before you begin writing code, you should come up with a testing plan that will thoroughly test the various components of your system. As you begin your implementation, you can start testing these components as they are finished. You must present the results of your testing in a testing report. You should prepare a brief user manual that explains how to use your software and shows its features. Finally, you should use your software to prepare a report that analyses the data over a 12 month period and presents the results in an executive summary. Your report should present the results from all of your required features for your chosen dataset, and should contain images from your software as well as some analysis and comments about the data.
 
