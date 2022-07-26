@@ -1,8 +1,8 @@
 # 2810ICT/7810ICT 2022 Assignment
 ### Project Management, Software Design, Data Analysis & Visualisation
 
-Part A due at the end of Week 6, Sunday 4th September, midnight.\
-Part B due at the end of Week 11, Sunday 9th October, midnight.
+##### Part A due at the end of Week 6, Sunday 4th September, midnight.\
+##### Part B due at the end of Week 11, Sunday 9th October, midnight.
 
 The assignment work for this course is a group-based (max 3 people) data analysis project that is split into 2 parts – design and implementation. There are several different datasets in this repository – you will need to choose 1 that your team will work on for both Part A and B. The overall goal for this assignment is to develop a simple data analysis and visualisation tool for a dataset. You will need to design and implement this tool, and it must provide a graphical user interface that will handle the analysis and visualisation of the data. Each dataset has a number of analysis and visualisation tasks that your interface must enable a user to perform. In addition to the listed tasks, you must come up with 1 additional analysis/visualisation/insight that your software provides (you will need to come up with an appropriate task based on the dataset you pick). All the assignment work must be hosted on a github repo with access restricted to your group members. This repository should have a track record of regular commits showing the incremental (and group-based) work done on the project. ALL project resources (documents, code, images, other) should be in the github repo.
 
@@ -33,7 +33,8 @@ This assignment must be submitted online via L@G under the assessment page. Only
 ##### Part A
 -	A project plan (doc/pdf). You should use the provided template.
 -	A Gantt chart. You should embed this in your project plan (as an image or other), but also provide the original file.
--	A software design document (doc/pdf). You should use the provided template.
+-	A software design document (doc/pdf). You should use the provided template.\
+- A copy of your GiT log
 
 ##### Part B
 -	All required .py files containing the data analysis program
@@ -41,5 +42,11 @@ This assignment must be submitted online via L@G under the assessment page. Only
 -	A software testing report containing a brief testing plan and unit tests & coverage test results (doc/pdf). You should use the provided template.
 -	Updated project plan, design document and Gantt chart from Part A (doc/pdf).
 -	An executive summary covering a 12 month (doc/pdf). You should use the provided template.
+-	A copy of your GiT log
+
+Additionally, your private git repo should be shared with the following accounts:
+gervasetuxworth (g.tuxworth@griffith.edu.au)
+
+
 
 
