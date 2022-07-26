@@ -4,12 +4,12 @@ The assignment work for this course is a group-based (max 3 people) data analysi
 
 The provided templates include both part A and part B. As per the instructions, the following are required at each stage:
 
-###Part A
+### Part A
 Project Plan
 Gannt Chart
 Software Design Document
 
-###Part B
+### Part B
 Executive Summary
 Software Testing Report
 
