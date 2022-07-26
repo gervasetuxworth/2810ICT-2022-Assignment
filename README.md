@@ -1,5 +1,5 @@
 # 2810ICT/7810ICT 2022 Assignment
-### Project Management, Software Design, Data Analysis & Visualisation
+## Project Management, Software Design, Data Analysis & Visualisation
 
 ##### Part A due at the end of Week 6, Sunday 4th September, midnight.
 ##### Part B due at the end of Week 11, Sunday 9th October, midnight.
