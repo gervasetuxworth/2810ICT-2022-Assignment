@@ -6,10 +6,14 @@ The provided templates include both part A and part B. As per the instructions, 
 
 ### Part A
 Project Plan
+
 Gannt Chart
+
 Software Design Document
 
 ### Part B
+
 Executive Summary
+
 Software Testing Report
 
