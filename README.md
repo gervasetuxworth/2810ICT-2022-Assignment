@@ -33,7 +33,7 @@ This assignment must be submitted online via L@G under the assessment page. Only
 ##### Part A
 -	A project plan (doc/pdf). You should use the provided template.
 -	A Gantt chart. You should embed this in your project plan (as an image or other), but also provide the original file.
--	A software design document (doc/pdf). You should use the provided template.\
+-	A software design document (doc/pdf). You should use the provided template.
 - A copy of your GiT log
 
 ##### Part B
@@ -50,6 +50,17 @@ Additionally, your private git repo should be shared with the following accounts
 - dbaofd
 - zzowenzz
 
+### Marking
+
+This assignment is worth 60% of your final grade. Except in extraordinary circumstances, all group members will be given the same mark, so it is important that you all contribute and work together to complete the assignment. A full rubric for each part will be made available on the course website. Please note that all submitted assignments will be analysed by a plagiarism detector that is specifically designed for assignment submissions containing program source code. We will aim to have all assignments marked within 2 weeks of the due date.
+
+
+### Datasets
+
+There are 4 datasets available for you to do your assignment on. Each dataset has a set of required analysis functions. Remember, in addition to the listed required analysis tools, you must come up with 1 additional analysis task/tool of your own.
+
+#### Victoria State Accident DataSet
+[https://www.kaggle.com/gaurav896/victoria-state-accident-dataset/] (https://www.kaggle.com/gaurav896/victoria-state-accident-dataset/)
 
 
 
