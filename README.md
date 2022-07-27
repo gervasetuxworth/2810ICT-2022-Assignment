@@ -60,7 +60,15 @@ This assignment is worth 60% of your final grade. Except in extraordinary circum
 There are 4 datasets available for you to do your assignment on. Each dataset has a set of required analysis functions. Remember, in addition to the listed required analysis tools, you must come up with 1 additional analysis task/tool of your own.
 
 #### Victoria State Accident DataSet
-[https://www.kaggle.com/gaurav896/victoria-state-accident-dataset/] (https://www.kaggle.com/gaurav896/victoria-state-accident-dataset/)
+https://www.kaggle.com/gaurav896/victoria-state-accident-dataset
+
+**Required Features:**
+For a user-selected period, display the information of all accidents that happened in the period.
+For a user-selected period, produce a chart to show the number of accidents in each hour of the day (on average).
+For a user-selected period, retrieve all accidents caused by an accident type that contains a keyword (user entered), e.g. collision, pedestrian.
+Allow the user to analyse the impact of alcohol in accidents – ie: trends over time, accident types involving alcohol, etc.
+One other ‘insight’ or analysis tool of your choice
+
 
 
 
