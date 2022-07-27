@@ -63,12 +63,38 @@ There are 4 datasets available for you to do your assignment on. Each dataset ha
 https://www.kaggle.com/gaurav896/victoria-state-accident-dataset
 
 **Required Features:**
-For a user-selected period, display the information of all accidents that happened in the period.
-For a user-selected period, produce a chart to show the number of accidents in each hour of the day (on average).
-For a user-selected period, retrieve all accidents caused by an accident type that contains a keyword (user entered), e.g. collision, pedestrian.
-Allow the user to analyse the impact of alcohol in accidents – ie: trends over time, accident types involving alcohol, etc.
-One other ‘insight’ or analysis tool of your choice
+- For a user-selected period, display the information of all accidents that happened in the period.
+- For a user-selected period, produce a chart to show the number of accidents in each hour of the day (on average).
+- For a user-selected period, retrieve all accidents caused by an accident type that contains a keyword (user entered), e.g. collision, pedestrian.
+- Allow the user to analyse the impact of alcohol in accidents – ie: trends over time, accident types involving alcohol, etc.
+- One other ‘insight’ or analysis tool of your choice
 
+#### Sydney Airbnb Data: 
+https://www.kaggle.com/tylerx/sydney-airbnb-open-data
 
+**Required Features:**
+- For a user-selected period, report the information of all listings in a specified suburb
+- For a user-selected period, produce a chart to show the distribution of prices of properties
+- For a user-selected period, retrieve all records that contain a keyword (user entered), e.g. pool, pet.
+- Analysing how many customers commented on factors related to cleanliness (multiple key words may be associated with cleanliness – justify your selection). 
+- One other ‘insight’ or analysis tool of your choice
 
+#### NSW Traffic Penalty Data: 
+https://www.kaggle.com/llihan/australia-nsw-traffic-penalty-data-20112017
 
+**Required Features:**
+- For a user-selected period, report the information of all penalty cases.
+- For a user-selected period, produce a chart to show the distribution of cases in each offence code
+- For a user-selected period, retrieve all cases captured by radar or camera based on offence description
+- Analysing the cases caused by mobile phone usage - ie: trend over time, offence code, and so on.
+- One other ‘insight’ or analysis tool of your choice
+
+#### New York Restaurant Inspection results: 
+https://www.kaggle.com/datasets/new-york-city/nyc-inspections
+
+**Required Features:**
+- For a user-selected period, retrieve relevant inspection details.
+- For a user-selected period, plot the distribution of violations over the different suburbs
+- For a user-selected period, retrieve all violations that contain a keyword (user entered).
+- Analyse the cases related to animals, e.g., rats, mice or others, and their trend over time and distribution over suburbs
+- One other ‘insight’ or analysis tool of your choice
