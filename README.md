@@ -55,11 +55,11 @@ Additionally, your private git repo should be shared with the following accounts
 This assignment is worth 60% of your final grade. Except in extraordinary circumstances, all group members will be given the same mark, so it is important that you all contribute and work together to complete the assignment. A full rubric for each part will be made available on the course website. Please note that all submitted assignments will be analysed by a plagiarism detector that is specifically designed for assignment submissions containing program source code. We will aim to have all assignments marked within 2 weeks of the due date.
 
 
-### Datasets
+## Datasets
 
 There are 4 datasets available for you to do your assignment on. Each dataset has a set of required analysis functions. Remember, in addition to the listed required analysis tools, you must come up with 1 additional analysis task/tool of your own.
 
-#### Victoria State Accident DataSet
+### Victoria State Accident DataSet
 https://www.kaggle.com/gaurav896/victoria-state-accident-dataset
 
 **Required Features:**
@@ -69,7 +69,7 @@ https://www.kaggle.com/gaurav896/victoria-state-accident-dataset
 - Allow the user to analyse the impact of alcohol in accidents – ie: trends over time, accident types involving alcohol, etc.
 - One other ‘insight’ or analysis tool of your choice
 
-#### Sydney Airbnb Data: 
+### Sydney Airbnb Data: 
 https://www.kaggle.com/tylerx/sydney-airbnb-open-data
 
 **Required Features:**
@@ -79,7 +79,7 @@ https://www.kaggle.com/tylerx/sydney-airbnb-open-data
 - Analysing how many customers commented on factors related to cleanliness (multiple key words may be associated with cleanliness – justify your selection). 
 - One other ‘insight’ or analysis tool of your choice
 
-#### NSW Traffic Penalty Data: 
+### NSW Traffic Penalty Data: 
 https://www.kaggle.com/llihan/australia-nsw-traffic-penalty-data-20112017
 
 **Required Features:**
@@ -89,7 +89,7 @@ https://www.kaggle.com/llihan/australia-nsw-traffic-penalty-data-20112017
 - Analysing the cases caused by mobile phone usage - ie: trend over time, offence code, and so on.
 - One other ‘insight’ or analysis tool of your choice
 
-#### New York Restaurant Inspection results: 
+### New York Restaurant Inspection results: 
 https://www.kaggle.com/datasets/new-york-city/nyc-inspections
 
 **Required Features:**
